@@ -1,2 +1,2 @@
 # ajinkyalade-demo
-this isme trying to learn github
+this is me trying to learn github
